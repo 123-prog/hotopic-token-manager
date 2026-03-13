@@ -1,0 +1,9 @@
+# Token Manager 配置文件示例
+
+# 认证接口地址
+AUTH_URL: http://your-auth-server/auth/token
+
+# 账户信息
+ACCOUNT: your_account
+PASSWORD: your_password
+CLIENT_ID: your_client_id
